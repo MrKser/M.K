@@ -1,7 +1,8 @@
 
 ezBot guide
 EZBOT FOR BOTTING ACCOUNTS on Patch 7.1
-Frist, you will need ezbot, you can download it from HERE https://github.com/fkingnoobgg/lolbot/releases/tag/1.0.1.7
+Frist, you will need ezbot and Elobuddy, you can download it from HERE https://github.com/fkingnoobgg/lolbot/releases/tag/1.0.1.7
++ Elobuddy.net
 ezBot is not made by me it is made by Tryller and updated by Hesa and fkingnoobgg
 After you downloaded it extract it to a folder (its ok on your desktop)
 ===Config Part===
